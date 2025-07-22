@@ -72,6 +72,8 @@ Contains details about sales representatives and their respective regions.
    2. Add `Sales` and `Profit` as values.
    3. Create a **Line Chart** to display trends for Sales and Profit.
    4. Apply slicers to filter by category, market, or region dynamically.
+   5. <img width="357" height="355" alt="image" src="https://github.com/user-attachments/assets/a49323c6-bfb2-4626-ae2e-c3d7b40eef31" />
+
 
 ---
 
@@ -83,6 +85,8 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Profit.
    3. Create a **Bar Chart** to visualize category-wise profit.
    4. Add slicers for interactivity.
+   5. <img width="369" height="372" alt="image" src="https://github.com/user-attachments/assets/1bfb49c5-8fec-4b20-a0f0-007c92476a14" />
+
 
 ---
 
@@ -94,6 +98,8 @@ Contains details about sales representatives and their respective regions.
    2. Calculate percentage share using `=Sales / Total Sales * 100`.
    3. Create a **Pie Chart** or **Donut Chart** to display the sales share.
    4. Add labels to show percentage values dynamically.
+   5. <img width="365" height="360" alt="image" src="https://github.com/user-attachments/assets/0549b851-a6e3-4f9f-a543-9bfaecd6b277" />
+
 
 ---
 
@@ -104,6 +110,8 @@ Contains details about sales representatives and their respective regions.
    1. Create a **Pivot Table** with `Country` as rows and `Sales` as values.
    2. Sort the table in descending order of Sales.
    3. Use conditional formatting or a **Heatmap** to highlight top-performing countries.
+   4. <img width="381" height="365" alt="image" src="https://github.com/user-attachments/assets/42e3b558-9a7d-424e-b6e6-06f223508e29" />
+
 
 ---
 
@@ -115,6 +123,8 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Sales.
    3. Filter to display the top 5 Sub-Categories.
    4. Use a **Column Chart** to visualize results.
+   5. <img width="441" height="448" alt="image" src="https://github.com/user-attachments/assets/7b793049-1524-4afb-b53a-dc099fe9a717" />
+
 
 ---
 

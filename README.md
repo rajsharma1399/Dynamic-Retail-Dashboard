@@ -127,6 +127,18 @@ Contains details about sales representatives and their respective regions.
 
 
 ---
+### 7. Bottom 5 Subcategories
+Objective: Highlight underperforming subcategories.
+
+Steps:
+
+1.Use the same Pivot Table as above but sort in ascending order of Sales.
+2.Filter to display the bottom 5 Sub-Categories.
+3.Use a Column Chart with contrasting colors to emphasize low-performing categories.
+<img width="439" height="437" alt="image" src="https://github.com/user-attachments/assets/82ed55dc-88d7-432a-be32-aeb12f311ec3" />
+
+
+---
 
 ## Dynamic Features
 The dashboard includes:

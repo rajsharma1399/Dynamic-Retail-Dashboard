@@ -144,7 +144,7 @@ This dashboard empowers retail businesses to:
 ---
 
 ## Visuals
-https://github.com/rajsharma1399/Dynamic-Retail-Dashboard/blob/main/Dynamic%20retail%20dashboard.png
+https://github.com/rajsharma1399/Dynamic-Retail-Dashboard/blob/main/Dynamic%20retail%20dashboard.png?raw=true
 
 
 This repository includes:

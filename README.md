@@ -144,6 +144,8 @@ This dashboard empowers retail businesses to:
 ---
 
 ## Visuals
+![Retail Dashboard](dashboard.png)
+
 This repository includes:
 - Visual examples for each solved problem statement.
 - Snapshots of the final dashboard with all components.

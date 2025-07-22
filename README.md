@@ -144,10 +144,8 @@ This dashboard empowers retail businesses to:
 ---
 
 ## Visuals
-<img width="1077" height="614" alt="image" src="https://github.com/user-attachments/assets/e9bac3b9-9301-4882-8c2a-e0964ccac590" />
-
-
-
 This repository includes:
 - Visual examples for each solved problem statement.
 - Snapshots of the final dashboard with all components.
+- <img width="1077" height="614" alt="image" src="https://github.com/user-attachments/assets/9266a312-15b7-41f9-a1bf-6148082b118b" />
+

@@ -144,7 +144,8 @@ This dashboard empowers retail businesses to:
 ---
 
 ## Visuals
-![Retail Dashboard](dashboard.png)
+![Retail Dashboard](https://user-images.githubusercontent.com/123456789/yourimage.png)
+
 
 This repository includes:
 - Visual examples for each solved problem statement.
